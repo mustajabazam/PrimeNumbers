@@ -1,0 +1,2 @@
+# PrimeNumbers
+This code was created for the purpose of finding any prime numbers within any given input. By combining multiple concepts from number theory in mathematics and python, an efficient code was created. Finding efficiencies appeared to be a major hurdle, as when given a large input interval, the code would take long to process. By brainstorming ideas which would allow the code to skip values which are always prime regardless, less numbers would require checking, thus improving the time exponentially.
